@@ -7,7 +7,6 @@ A technical cybersecurity policy written for a **fictional** healthcare organiza
 ## 📄 Read the policy
 
 - **[Read online (Markdown)](policy/cybersecurity-policy.md)**
-- **[Download PDF](policy/ABC_Private_Healthcare_Cybersecurity_Policy.pdf)**
 
 ## What it covers
 
