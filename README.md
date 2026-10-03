@@ -6,7 +6,7 @@ A technical cybersecurity policy written for a **fictional** healthcare organiza
 
 ## 📄 Read the policy
 
-- **[Read online (Markdown)](policy/cybersecurity-policy.md)**
+- **[Read online (Markdown)](cybersecurity-policy.md)**
 
 ## What it covers
 
